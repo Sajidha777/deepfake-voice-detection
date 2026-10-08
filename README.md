@@ -1,4 +1,4 @@
-## Clone Voice Detection 
+## Deepfake Voice Detection 
 
 #### Overview
 This project is aimed at creating lightweight deep learning models to detect deepfake voices, suitable for deployment on mobile devices. It includes using a pre-trained model called YAMNet for feature extraction, originally trained for classifying environmental sounds. While the initial model architecture is based on MobileNet V1, a significant improvement is achieved by developing a similar but new model using the V2 architecture. The V2 architecture plays a crucial role in enhancing the model's performance. The dataset used in training primarily focuses on phone call scenarios, ensuring the trained models are reliable in detecting spoofed voices during phone conversations.
